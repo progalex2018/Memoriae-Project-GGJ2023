@@ -1,6 +1,8 @@
 # Memoriae-Project-GGJ2023
 Narrative based game developed for the GGJ 2023 (Theme: Roots)
 
+Assets from the Unity Asset Store used in this project were not included.
+
 # Credits:
 Project Management         Alexander Matos Gorritz
 
