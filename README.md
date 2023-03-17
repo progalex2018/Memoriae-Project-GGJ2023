@@ -4,49 +4,51 @@ Narrative based game developed for the GGJ 2023 (Theme: Roots)
 Assets from the Unity Asset Store used in this project were not included.
 
 # Credits:
-Project Management         Alexander Matos Gorritz
+Project Management: Alexander Matos Gorritz
 
 
-Animation                  Alexander Matos Gorritz
+Animation: Alexander Matos Gorritz
 
 
-Design                     Alexander Matos Gorritz
+Design: Alexander Matos Gorritz
 
 
-Images                     PIXABAY
+Images: PIXABAY
 
 
-Story                      Alexander Matos Gorritz
+Story: Alexander Matos Gorritz
 
 
-Assets                     SYNTY Studios
+Assets:
+  SYNTY Studios
 
-                           Gabies_Assets
+  Gabies_Assets
 
-                           RenderKnight
+  RenderKnight
 
-                           Mix & Jam
+  Mix & Jam
 
-                           Sean Duffy
+  Sean Duffy
 
-                           Nicholas Veselov
+  Nicholas Veselov
 
-                           Alexander Matos Gorritz
-
-
-Audio Assets               PIXABAY:
-
-                           PlacidPlace
-
-                           Lesia Kower
-
-                           Lesfm
+  Alexander Matos Gorritz
 
 
-Audio Engineering          Alexander Matos Gorritz
+Audio Assets:
+  PIXABAY
+
+  PlacidPlace
+
+  Lesia Kower
+
+  Lesfm
 
 
-Programming                Alexander Matos Gorritz
+Audio Engineering: Alexander Matos Gorritz
+
+
+Programming: Alexander Matos Gorritz
 
 # PIXABAY Terms of Service
 
